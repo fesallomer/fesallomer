@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Fesal Omar 👋
 
-<!--
-**fesallomer/fesallomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Data Analyst GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-Here are some ideas to get you started:
+I'm a passionate data analyst with a knack for turning data into actionable insights. I love working with data to solve complex problems and drive business decisions. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- **Data Analysis:** Python, SQL, Excel
+- **Data Visualization:** Tableau, Power BI
+- **Databases:** MySQL, PostgreSQL
+
+## 📈 What I Do
+
+- **Data Cleaning:** Ensuring data quality and preparing data for analysis.
+- **Data Exploration:** Identifying trends, patterns, and anomalies.
+- **Statistical Analysis:** Using statistical methods to draw insights from data.
+- **Reporting:** Creating dashboards and reports to communicate findings.
+
+
+## 📫 How to Reach Me
+
+- [LinkedIn](www.linkedin.com/in/fesalomar)
+- [Email](fesalomer99@gmail.com)
+
+
+## 🔍 Let's Connect!
+
+I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out!
+
+---
+
+![Cool Data GIF](https://media.giphy.com/media/3oEduQAsYcJKQH2XsI/giphy.gif)
