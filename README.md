@@ -1,6 +1,7 @@
 # Hi there, I'm Fesal Omar 👋
 
-![Data Analyst GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Data Analyst GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) 
+
 
 I'm a passionate data analyst with a knack for turning data into actionable insights. I love working with data to solve complex problems and drive business decisions. 
 
